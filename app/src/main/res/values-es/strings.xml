@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="title_app">1ra Aplicació</string>
+    <string name="introdueix_el_teu_nom_d_usuari">Introdueix el teu nom d\'usuari</string>
+    <string name="til_password">Introdueix la teva contrasenya</string>
+    <string name="button_reset_password">Has oblidat la teva contrasenya?</string>
+    <string name="login">Iniciar sessió</string>
+</resources>
