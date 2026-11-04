@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    viewBinding { enable = true }
     namespace = "ad.cfp.tsdp1"
     compileSdk {
         version = release(37)
