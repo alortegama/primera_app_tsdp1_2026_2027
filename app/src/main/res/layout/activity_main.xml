@@ -64,6 +64,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="@string/title_app"
+        android:textAlignment="center"
+        android:textAllCaps="true"
         app:layout_constraintEnd_toEndOf="@id/guia_vertical_95"
         app:layout_constraintStart_toStartOf="@id/guia_vertical_05"
         app:layout_constraintTop_toTopOf="@id/guia_horizontal_05" />
